@@ -7,6 +7,7 @@ public class Main {
         Pepe pepe = new Pepe();
         Lola lola = new Lola();
 
+        //Pepe
         pepe.edad(7);
         pepe.nombre("Pepe");
         pepe.hacerSonido("Ladrar");
@@ -15,12 +16,12 @@ public class Main {
 
         System.out.println("\n");
 
+        //Lola
         lola.nombre("Lola");
         lola.edad(5);
         lola.hacerSonido("Rugir");
         System.out.println("Hola me llamo " + lola.nombre + " , tengo " + lola.edad + " anios." + " Soy un animal salvaje y puedo " + lola.sonido);
         lola.cazar();
         lola.defender();
-
     }
 }
