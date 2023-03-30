@@ -1,3 +1,5 @@
+package clases;
+
 public abstract class Animal {
     public String nombre;
     public int edad;

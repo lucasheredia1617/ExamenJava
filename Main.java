@@ -1,3 +1,6 @@
+import clases.Lola;
+import clases.Pepe;
+
 public class Main {
     public static void main(String[] args) {
 

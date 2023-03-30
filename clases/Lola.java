@@ -1,4 +1,8 @@
-public class Lola extends Animal implements ISalvajes{
+package clases;
+
+import interfaces.ISalvajes;
+
+public class Lola extends Animal implements ISalvajes {
 
     public Lola() {
     }

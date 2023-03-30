@@ -1,4 +1,8 @@
-public class Pepe extends Animal implements IDomesticos{
+package clases;
+
+import interfaces.IDomesticos;
+
+public class Pepe extends Animal implements IDomesticos {
 
     public Pepe() {
     }
