@@ -11,4 +11,5 @@ public abstract class Animal {
     public abstract void nombre(String nombre);
 
     public abstract void edad (int edad);
+
 }
