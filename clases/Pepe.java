@@ -14,7 +14,7 @@ public class Pepe extends Animal implements IDomesticos {
 
     @Override
     public void nombre(String nombre) {
-        this.nombre="pepe";
+        this.nombre=nombre;
     }
 
     @Override
